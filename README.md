@@ -35,7 +35,7 @@ python yt_sownloader.py
 ```
 
 ## Screenshot
-![Nama alternatif](path/ke/gambar.png)
+![Nama alternatif](img/Sc.png)
 
 ## License
 This project is licensed under MIT License
